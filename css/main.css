@@ -13,11 +13,11 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  user-select: none;
 }
 
 .logo {
   width: 40%;
-  user-select: none;
 }
 
 .subtitle {
