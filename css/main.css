@@ -17,6 +17,7 @@ body {
 
 .logo {
   width: 40%;
+  user-select: none;
 }
 
 .subtitle {
